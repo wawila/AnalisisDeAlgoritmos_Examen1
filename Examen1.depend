@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1495149834 source:c:\users\david chavarria\documents\unitec\analisis de algoritmos\examen1\examen1\main.cpp
+	"Test.h"
+	<iostream>
+	<map>
+
+1495145845 c:\users\david chavarria\documents\unitec\analisis de algoritmos\examen1\examen1\include\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"BinaryNode.h"
+
+1495145694 c:\users\david chavarria\documents\unitec\analisis de algoritmos\examen1\examen1\include\binarynode.h
+	<iostream>
+
+1495145705 source:c:\users\david chavarria\documents\unitec\analisis de algoritmos\examen1\examen1\src\binarynode.cpp
+	"BinaryNode.h"
+
+1495149247 source:c:\users\david chavarria\documents\unitec\analisis de algoritmos\examen1\examen1\src\map.cpp
+	"Map.h"
+
+1495147245 c:\users\david chavarria\documents\unitec\analisis de algoritmos\examen1\examen1\include\map.h
+	<iostream>
+	<map>
+	<vector>
+
+1495149645 source:c:\users\david chavarria\documents\unitec\analisis de algoritmos\examen1\examen1\src\test.cpp
+	"Test.h"
+	"Map.h"
+
